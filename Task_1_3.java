@@ -6,7 +6,7 @@ public class Task_1_3 {
 
         System.out.println("My name is Aleksandr");
         System.out.println(123 * 456);
-        System.out.println("**********");
+        System.out.println("*".repeat(10));
         System.out.print("Today ");
         System.out.print("was ");
         System.out.print("rainy ");
